@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html>
-<header>
+<head>
 Hi!
-<\header>
+<\head>
 <\html>
